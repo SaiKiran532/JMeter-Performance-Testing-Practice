@@ -12,6 +12,11 @@ Welcome to my JMeter performance testing practice repository! 🚀 In this repos
 6. **Throughput Controller**: Optimized performance testing with Throughput Controller to control the number of requests per second.
 7. **Parameterization**: Mastered Parameterization techniques both internally (using User-defined variables) and externally (using .CSV files) for dynamic testing.
 8. **Correlation**: Implemented Correlation with Regular Expressions to extract dynamic data from responses and use them in subsequent requests.
+9. **Assertions**: Ensured test accuracy with various assertions including Response, Duration, Size, HTML, XML, and XPath.
+
+10. **Config Elements**: Optimized test configurations for better performance.
+11. **Database Test Plan**: Successfully created and executed a database test plan for comprehensive testing.
+12. **FTP**: Explored FTP upload and download functionalities for end-to-end testing scenarios.
 
 Additionally, I've also practiced API testing using the WeatherReport website to ensure robustness and reliability.
 
