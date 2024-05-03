@@ -17,8 +17,12 @@ Welcome to my JMeter performance testing practice repository! 🚀 In this repos
 10. **Config Elements**: Optimized test configurations for better performance.
 11. **Database Test Plan**: Successfully created and executed a database test plan for comprehensive testing.
 12. **FTP**: Explored FTP upload and download functionalities for end-to-end testing scenarios.
+13. **REST API**: Conducted REST API testing for robust backend validation.
+14. **JDBC**: Integrated JDBC for database connectivity and testing.
+15. **HTML Reports**: Generated comprehensive HTML reports from the command line for in-depth analysis.
 
-Additionally, I've also practiced API testing using the WeatherReport website to ensure robustness and reliability.
+
+Additionally, I've also practiced API testing using the https://www.weatherapi.com/api-explorer.aspx  website to ensure robustness and reliability.
 
 ## Repository Structure:
 
